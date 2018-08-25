@@ -43,11 +43,13 @@ Star Admin is released under MIT license. Star Admin is a free Bootstrap 4 admin
 <hr>
 
 
+0 - Install `node-gyp` package. If you dont know installation steps, please [click here](https://github.com/nodejs/node-gyp)
+
 1 - Click the Clone or Download button in GitHub and download as a ZIP file or you can enter the command git clone https://github.com/BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template.git in you terminal to get a copy of this template.
 
 2 - After the files have been downloaded you will get a folder with all the required files
 
-3 - You can install all the dependencies in the template by running the command npm install. All the required files are in the node modules.
+3 - Open your terminal (Run as Administrator). You can install all the dependencies in the template by running the command npm install. All the required files are in the node modules. If you didn't run with admin authority, you can see errors.
 
 4 - Find the file named index.html, check what all components you need. Open the file in a text editor and you can start editing.
 
